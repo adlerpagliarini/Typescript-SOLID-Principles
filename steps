@@ -1,0 +1,6 @@
+echo "# Typescript-SOLID-PrinciplesWithNodejs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/adlerpagliarini/Typescript-SOLID-PrinciplesWithNodejs.git
+git push -u origin master
